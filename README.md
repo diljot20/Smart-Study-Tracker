@@ -39,7 +39,7 @@ A web-based productivity application built with Python and Flask that helps stud
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+   git clone https://github.com/diljot20/Smart-Study-Tracker.git
    ```
 
 2. Navigate into the project folder.
